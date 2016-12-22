@@ -2,8 +2,6 @@
 name = "adjacent-solver"
 version = "0.1.0"
 authors = ["Teo Klestrup Röijezon <teo@nullable.se>"]
-links = "unequal2"
-build = "build.rs"
 
 [dependencies]
 rand = "0.3.15"
